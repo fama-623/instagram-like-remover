@@ -1,3 +1,3 @@
 # Instagram Likes Remover
 
-Save your brain from distractions and vanity metrics. Removes likes, comments, reels and explore button.
+Instagram allows for the removal of likes, but it still shows up as "Liked by xyz and others". This completely removes likes along with comments, reels and explore button. Allows for a distraction & vanity free Instagram experience.
